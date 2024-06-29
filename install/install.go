@@ -3,7 +3,7 @@ package install
 import (
 	"fmt"
 
-	qgen "github.com/Azareal/Gosora/query_gen"
+	qgen "github.com/notionbb/NotionBB-Project/query_gen"
 )
 
 var adapters = make(map[string]InstallAdapter)
